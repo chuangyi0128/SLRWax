@@ -24,7 +24,6 @@ Pod::Spec.new do |s|
                 'SLRWax/*.{h,m}',
                 'SLRWax/extensions/**/*.{h,m,c}',
                 'SLRWax/lua/*.{h,m,c}',
-                'SLRWax/AOPAspect/*.{h,m}'
   s.ios.library = 'z','xml2'
   s.xcconfig = { 'HEADER_SEARCH_PATHS' => '${SDK_DIR}/usr/include/libxml2' }
 
