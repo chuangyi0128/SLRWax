@@ -1,0 +1,16 @@
+PODS:
+  - SLRWax (0.1.0):
+    - SLRWax/AOPAspect
+  - SLRWax/AOPAspect (0.1.0)
+
+DEPENDENCIES:
+  - SLRWax (from `../`)
+
+EXTERNAL SOURCES:
+  SLRWax:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SLRWax: 161723d954409c6fa334c97ae2889d7e2d434bf4
+
+COCOAPODS: 0.34.4
