@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'SLRWax', :exclusive => true do
+  pod "SLRWax", :path => "../"
+
+  
+end
